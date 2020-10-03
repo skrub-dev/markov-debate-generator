@@ -5,7 +5,7 @@ const fs = require('fs');
 // - Create Website
 // - Add Chris Wallace
 // - Optimize for future debates
-// - Malarky Adder
+// - Malarkey Quotient
 // - Similar to above but for Trump
 
 // Function to Generate a Markov Chain
