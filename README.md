@@ -16,12 +16,6 @@ Cd into the directory
 cd markov-debate-generator
 ```
 
-Install dependencies
-```bash
-npm i
-```
-
-
 ## Usage
 
 Run index.js
