@@ -11,8 +11,5 @@
     "url": "https://github.com/skrub-dev/markov-debate-generator"
   },
   "author": "humboldt123",
-  "license": "MIT",
-  "dependencies": {
-    "foswig": "^3.0.1"
-  }
+  "license": "MIT"
 }
