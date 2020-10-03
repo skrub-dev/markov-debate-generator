@@ -1,5 +1,7 @@
 # Markov Debate Generator
 
+[![Build Version](https://img.shields.io/badge/Version-1.0.0-yellow.svg)](https://github.com/skrub-dev/markov-debate-generator) [![Lisence](https://img.shields.io/badge/lisence-MIT-brightgreen.svg)](https://github.com/skrub-dev/markov-debate-generator/blob/main/LICENSE)
+
 Markov Debate Generator is a node app that synthesizes a debate between Trump and Biden using Markov chains. It is based on the first presidential debate of 2020.
 
 ## Installation
